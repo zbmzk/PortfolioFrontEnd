@@ -11,7 +11,7 @@ p,h1{
 }
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 5%;
 }
 @media (min-width: 576px){
     #pfp{
@@ -19,7 +19,7 @@ p,h1{
         width: 15%;
         border-radius: 100%;
         left: 3%;
-        top: 720px
+        top: 720px;
     }
 }
 @media (max-width: 575px){
@@ -28,6 +28,6 @@ p,h1{
         width: 45%;
         border-radius: 100%;
         left: 3%;
-        top: 720px
+        top: 720px;
     }
 }
