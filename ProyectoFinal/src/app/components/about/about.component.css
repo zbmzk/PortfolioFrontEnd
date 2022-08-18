@@ -6,7 +6,7 @@ div{
     padding: 20px;
 }
 p,h1{
-    color: rgb(248, 243, 237);
+    color: #f0f0f0;
     font-family: "Lato";
 }
 #nombre{
@@ -19,7 +19,7 @@ p,h1{
         width: 15%;
         border-radius: 100%;
         left: 3%;
-        top: 720px;
+        top: 1080px;
     }
 }
 @media (max-width: 575px){
